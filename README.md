@@ -33,7 +33,7 @@ api_promedio/
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/api_promedio.git
+git clone https://github.com/Hugo-Guerrero/api_promedio.git
 cd api_promedio
 ```
 
