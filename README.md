@@ -156,5 +156,6 @@ if __name__ == '__main__':
 ---
 
 # 👨‍💻 Autor
+Hugo Guerrero
 
 Desarrollado como práctica de creación de **APIs con Flask** y pruebas con **Postman**.
